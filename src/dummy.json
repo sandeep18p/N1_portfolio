@@ -1,0 +1,468 @@
+{
+  "about": {
+    "name": "Sandeep Pansari",
+    "title": "Software Developer",
+    "subTitle": "I develop 3D visuals, user interfaces, web applications, and mobile applications",
+    "description": "As a fullstack developer with 4 years of experience, I have honed my skills in JavaScript and am currently learning TypeScript to expand my expertise. I pride myself on being a quick learner and attentive listener, which allows me to collaborate effectively with clients to create efficient and scalable solutions. My focus is on developing user-friendly applications that solve real-world problems.",
+    "quote": "Live the Life as you want",
+    "exp_year": "4",
+    "address": "Raipur , India",
+    "some_total": "90",
+    "phoneNumber": "+91-8770208482",
+    "contactEmail": "sandeep.pansari98@gmail.com",
+    "avatar": {
+      "public_id": "photo",
+      "url": "/p2.jpg"
+    },
+    "alternateAvatars": [
+      {
+        "_id": "676e772d8a9e1d0a8b0647ca",
+        "public_id": "portfolio3/1713996156944-1hro1b.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1713996156944-1hro1b.webp"
+      }
+    ]
+  },
+  "usageMetrics": {
+    "visits": 0,
+    "downloads": 0
+  },
+  "_id": "65b3a22c01d900e96c4219ae",
+  "username": "portfolio3",
+  "email": "sandeep.pansari98@gmail.com",
+  "role": "admin",
+  "timeline": [
+    {
+      "company_name": "Freelance Developer",
+      "summary": "Working as a freelance developer, delivering high-quality web and mobile applications for various clients.",
+      "sequence": 1,
+      "startDate": "2023-01-01T00:00:00.000Z",
+      "endDate": "2024-03-13T00:00:00.000Z",
+      "jobTitle": "Freelance Developer",
+      "jobLocation": "Remote",
+      "bulletPoints": [
+        "Developed and delivered web and mobile applications using modern technologies.",
+        "Collaborated with clients to understand requirements and deliver tailored solutions.",
+        "Managed project timelines and ensured timely delivery of projects.",
+        "Conducted code reviews and maintained high code quality standards.",
+        "Participated in client meetings and provided technical expertise."
+      ],
+      "forEducation": false,
+      "enabled": true,
+      "_id": "65f1fd9e0556c3f887e9d9d8"
+    }
+  ],
+  "skills": [
+    {
+      "enabled": true,
+      "name": "React",
+      "sequence": 1,
+      "percentage": 95,
+      "image": {
+        "public_id": "1706291833080-0loo09",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706291833080-0loo09"
+      },
+      "_id": "65b3de41b48589dfcae17fbd"
+    },
+    {
+      "enabled": true,
+      "name": "Node.js",
+      "sequence": 2,
+      "percentage": 90,
+      "image": {
+        "public_id": "1706286990341-tznh4",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286990341-tznh4"
+      },
+      "_id": "65b3df8fb48589dfcae18204"
+    },
+    {
+      "enabled": true,
+      "name": "Next.js",
+      "sequence": 3,
+      "percentage": 85,
+      "image": {
+        "public_id": "1706286682511-rgp96r",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286682511-rgp96r"
+      },
+      "_id": "65b3de5bb48589dfcae17fe8"
+    },
+    {
+      "enabled": true,
+      "name": "Python",
+      "sequence": 4,
+      "percentage": 80,
+      "image": {
+        "public_id": "1706288708710-nrq74s",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288708710-nrq74s"
+      },
+      "_id": "65b3e645b48589dfcae187a2"
+    },
+    {
+      "enabled": true,
+      "name": "Django",
+      "sequence": 5,
+      "percentage": 75,
+      "image": {
+        "public_id": "1706288708710-nrq74s",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288708710-nrq74s"
+      },
+      "_id": "65b3e645b48589dfcae187a3"
+    },
+    {
+      "enabled": true,
+      "name": "Spring",
+      "sequence": 6,
+      "percentage": 70,
+      "image": {
+        "public_id": "1706288708710-nrq74s",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288708710-nrq74s"
+      },
+      "_id": "65b3e645b48589dfcae187a4"
+    },
+    {
+      "enabled": true,
+      "name": "Spring Boot",
+      "sequence": 7,
+      "percentage": 65,
+      "image": {
+        "public_id": "1706288708710-nrq74s",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288708710-nrq74s"
+      },
+      "_id": "65b3e645b48589dfcae187a5"
+    },
+    {
+      "enabled": true,
+      "name": "Java",
+      "sequence": 8,
+      "percentage": 60,
+      "image": {
+        "public_id": "1706288708710-nrq74s",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288708710-nrq74s"
+      },
+      "_id": "65b3e645b48589dfcae187a6"
+    },
+    {
+      "enabled": true,
+      "name": "MongoDB",
+      "sequence": 9,
+      "percentage": 55,
+      "image": {
+        "public_id": "1706286966065-p2yrx9",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706286966065-p2yrx9"
+      },
+      "_id": "65b3df76b48589dfcae181c5"
+    },
+    {
+      "enabled": true,
+      "name": "MySQL",
+      "sequence": 10,
+      "percentage": 50,
+      "image": {
+        "public_id": "1706288708710-nrq74s",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288708710-nrq74s"
+      },
+      "_id": "65b3e645b48589dfcae187a7"
+    },
+    {
+      "enabled": true,
+      "name": "PostgreSQL",
+      "sequence": 11,
+      "percentage": 45,
+      "image": {
+        "public_id": "1706288708710-nrq74s",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706288708710-nrq74s"
+      },
+      "_id": "65b3e645b48589dfcae187a8"
+    }
+  ],
+  "youtube": [
+    {
+      "url": "",
+      "title": "Sample Video",
+      "sequence": 1,
+      "image": null,
+      "embedId": "eitWM4gNZoM",
+      "enabled": true,
+      "_id": "65f482e5d689e5777d9457ae"
+    }
+  ],
+  "projects": [
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Digital Marketing Company",
+      "sequence": 1,
+      "image": {
+        "public_id": "1706284812399-jr7rqj",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706284812399-jr7rqj"
+      },
+      "description": "Developed a comprehensive digital marketing platform that helps businesses enhance their online presence and reach their target audience effectively.",
+      "techStack": ["React", "Node.js", "MongoDB", "Express"],
+      "_id": "65b3d70d313a9b09a24a1488",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Fashion Website",
+      "sequence": 2,
+      "image": {
+        "public_id": "1706284824843-56iakg",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706284824843-56iakg"
+      },
+      "description": "Created a dynamic fashion website that showcases the latest trends and allows users to shop for clothing and accessories online.",
+      "techStack": ["React", "Next.js", "MongoDB", "Express"],
+      "_id": "65b3d719313a9b09a24a148f",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Watch Website",
+      "sequence": 3,
+      "image": {
+        "public_id": "1706284839761-ckccdj",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706284839761-ckccdj"
+      },
+      "description": "Built a watch website that offers a wide range of timepieces, allowing users to browse and purchase watches online.",
+      "techStack": ["React", "Node.js", "OpenWeather API"],
+      "_id": "65b3d728313a9b09a24a1498",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Cloth Website",
+      "sequence": 4,
+      "image": {
+        "public_id": "1706284852474-gh2ng",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706284852474-gh2ng"
+      },
+      "description": "Designed and developed a clothing website that provides users with a seamless shopping experience for various apparel items.",
+      "techStack": ["React", "Next.js", "TailwindCSS"],
+      "_id": "65b3d734313a9b09a24a14a3",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Ed Tech Application",
+      "sequence": 5,
+      "image": {
+        "public_id": "1706285357884-3ja6sw",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285357884-3ja6sw"
+      },
+      "description": "Implemented an educational technology application that offers interactive learning experiences and resources for students.",
+      "techStack": ["React", "Node.js", "Socket.io", "MongoDB"],
+      "_id": "65b3d92ed017f6b49c778bd7",
+      "enabled": true
+    },
+    {
+      "liveurl": "#",
+      "githuburl": "#",
+      "title": "Gadgets Website",
+      "sequence": 6,
+      "image": {
+        "public_id": "1706285368529-zdr5fl",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706285368529-zdr5fl"
+      },
+      "description": "Developed a gadgets website that showcases a variety of electronic products, allowing users to explore and purchase the latest tech gadgets.",
+      "techStack": ["React Native", "Node.js", "MongoDB"],
+      "_id": "65b3d938d017f6b49c778bea",
+      "enabled": true
+    }
+  ],
+  "social_handles": [
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/_sandeep18_/",
+      "image": {
+        "public_id": "1708718250873-3038n7.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718250873-3038n7.webp"
+      },
+      "enabled": true,
+      "_id": "65b3ea4feb20546ae6d4641d"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.instagram.com/_sandeep18_/",
+      "image": {
+        "public_id": "1708718263294-2lfj67.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718263294-2lfj67.webp"
+      },
+      "enabled": true,
+      "_id": "65b3e99beb20546ae6d463c2"
+    },
+    {
+      "enabled": true,
+      "platform": "Twitter",
+      "url": "https://www.instagram.com/_sandeep18_/",
+      "image": {
+        "public_id": "1708718328750-d4jsq.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718328750-d4jsq.webp"
+      },
+      "_id": "65b3e47cb48589dfcae185bd"
+    },
+    {
+      "enabled": true,
+      "platform": "Facebook",
+      "url": "#",
+      "image": {
+        "public_id": "1708718346601-xldm.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1708718346601-xldm.webp"
+      },
+      "_id": "65b3e43cb48589dfcae1856c"
+    }
+  ],
+  "services": [
+    {
+      "name": "App Development",
+      "charge": "Inquire for Details",
+      "desc": "Design direction for business. Get your business on the next level. We help to create great experiences.",
+      "enabled": true,
+      "_id": "65f1fd690556c3f887e9d94a",
+      "image": {
+        "public_id": "portfolio3/1710364293287-4q1ngo.webp",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710364293287-4q1ngo.webp"
+      }
+    },
+    {
+      "name": "Web & App ",
+      "charge": "Inquire for Details",
+      "desc": "I build brands through cultural insights & strategic vision. Custom crafted business solutions.",
+      "image": {
+        "public_id": "portfolio3/1710357775748-9vwq4q.jpeg",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357775748-9vwq4q.jpeg"
+      },
+      "enabled": true,
+      "_id": "65f1fd100556c3f887e9d87b"
+    },
+    {
+      "name": "UI/UX Solutions",
+      "charge": "Inquire for Details",
+      "desc": "Design direction for business. Get your business on the next level. We help to create great experiences.",
+      "image": {
+        "public_id": "1706290914024-725ytf",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/1706290914024-725ytf",
+        "_id": "65b3eee8eb20546ae6d467fe"
+      },
+      "_id": "65b3e33db48589dfcae1851d",
+      "enabled": true
+    },
+    {
+      "name": "Global Marketing",
+      "charge": "Inquire for Details",
+      "desc": "Custom marketing solutions. Get your business on the next level. We provide worldwide marketing.",
+      "image": {
+        "public_id": "portfolio3/1710357668346-ke8kgt.jpeg",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357668346-ke8kgt.jpeg"
+      },
+      "_id": "65b3e322b48589dfcae184d0",
+      "enabled": true
+    },
+    {
+      "name": "Brand Consultant",
+      "charge": "Inquire for Details",
+      "desc": "I build brands through cultural insights & strategic vision. Custom crafted business solutions.",
+      "image": {
+        "public_id": "portfolio3/1710357680224-phijt.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357680224-phijt.png"
+      },
+      "_id": "65b3e2f6b48589dfcae1843b",
+      "enabled": true
+    },
+    {
+      "name": "Wordpress Development",
+      "charge": "Inquire for Details",
+      "desc": "Get yourself a website.",
+      "image": {
+        "public_id": "portfolio3/1710357752227-6f5trs.jpeg",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357752227-6f5trs.jpeg"
+      },
+      "_id": "65b3e2a6b48589dfcae183f2",
+      "enabled": true
+    }
+  ],
+  "testimonials": [
+    {
+      "image": {
+        "public_id": "portfolio3/1710357726628-c4dr18.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357726628-c4dr18.png"
+      },
+      "name": "Priya Sharma",
+      "review": "I had the pleasure of working closely with John on a challenging project. He is a highly skilled developer who consistently delivered excellent results. His ability to understand complex requirements and implement efficient solutions was truly impressive. I would highly recommend him to any organization looking for a talented developer.",
+      "position": "Software Engineer",
+      "enabled": true,
+      "_id": "65f1fcdf0556c3f887e9d74c"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357705657-aimydg.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357705657-aimydg.png"
+      },
+      "name": "David Rodriguez",
+      "review": "Throughout our project, John demonstrated exceptional technical skills and a strong work ethic. He consistently met deadlines and produced high-quality code that exceeded our expectations. His proactive approach to problem-solving and effective communication made him a valuable member of our team\n",
+      "position": "Project Manager",
+      "enabled": true,
+      "_id": "65f1fcca0556c3f887e9d6e8"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357683739-tqeav.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357683739-tqeav.png"
+      },
+      "name": "Emily Chen",
+      "review": "I had the pleasure of collaborating with John on a complex web application project. His ability to translate design concepts into functional, user-friendly features was impressive. John consistently delivered high-quality work and was always open to feedback. I look forward to working with him again in the future.\n\n",
+      "position": "Emily Chen",
+      "enabled": true,
+      "_id": "65f1fcb30556c3f887e9d662"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357647030-pi5cis.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357647030-pi5cis.png"
+      },
+      "name": "Michael Lee",
+      "review": "John is a skilled developer with a keen eye for detail. He played a crucial role in our team, consistently producing clean, efficient code. His collaborative nature and willingness to take on new challenges make him an invaluable asset to any project.\"",
+      "position": "Lead Developer",
+      "enabled": true,
+      "_id": "65f1fc8f0556c3f887e9d4e5"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357534893-2s9b5d.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357534893-2s9b5d.png"
+      },
+      "name": "Sarah Johnson",
+      "review": "Working with John was an absolute delight. Their professionalism and technical prowess were evident from day one. He consistently delivered top-notch code and went above and beyond to ensure the success of our project. I highly recommend him for any development endeavor",
+      "position": "Product Manager",
+      "enabled": true,
+      "_id": "65f1fc1f0556c3f887e9d31d"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357534893-2s9b5d.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357534893-2s9b5d.png"
+      },
+      "name": "Rahul Patel",
+      "review": "John's expertise in web development has been instrumental in our project's success. His innovative solutions and attention to detail have greatly enhanced our user experience.",
+      "position": "Tech Lead",
+      "enabled": true,
+      "_id": "65f1fc1f0556c3f887e9d31e"
+    },
+    {
+      "image": {
+        "public_id": "portfolio3/1710357534893-2s9b5d.png",
+        "url": "https://portfolio-image-store.s3.ap-south-1.amazonaws.com/portfolio3/1710357534893-2s9b5d.png"
+      },
+      "name": "Ananya Gupta",
+      "review": "Working with John has been a fantastic experience. His technical skills and collaborative approach have made a significant impact on our project.",
+      "position": "Software Developer",
+      "enabled": true,
+      "_id": "65f1fc1f0556c3f887e9d31f"
+    }
+  ],
+  "createdAt": "2024-01-26T12:14:36.514Z",
+  "updatedAt": "2024-05-08T17:53:29.758Z",
+  "__v": 74,
+  "refreshToken": ""
+}
